@@ -1,12 +1,12 @@
 
     // Configuración de Firebase
     const firebaseConfig = {
-      apiKey: "TU_API_KEY",
-      authDomain: "TU_AUTH_DOMAIN",
-      projectId: "TU_PROJECT_ID",
-      storageBucket: "TU_STORAGE_BUCKET",
-      messagingSenderId: "TU_MESSAGING_SENDER_ID",
-      appId: "TU_APP_ID"
+      apiKey: "AIzaSyA6u_-P7SA4ecwY64MzUvPcL0vHVjsFLTo",
+      authDomain: "recce-f1a05.firebaseapp.com",
+      projectId: "recce-f1a05",
+      storageBucket: "recce-f1a05.firebasestorage.app",
+      messagingSenderId: "1096750674284",
+      appId: "1:1096750674284:web:daeb472b820f25ce6b0349"
     };
 
     // Inicializar Firebase
